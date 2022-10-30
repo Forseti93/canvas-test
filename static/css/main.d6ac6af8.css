@@ -1,2 +1,0 @@
-:root{--container-default:40px}*{box-sizing:border-box;margin:0;padding:0}.container{margin-left:40px;margin-left:var(--container-default);margin-right:40px;margin-right:var(--container-default)}.App{align-items:center;display:flex;flex-direction:column}#canvas{border:2px solid red;display:block;height:calc(100% - 100px);width:calc(100% - var(--container-default)*2)}
-/*# sourceMappingURL=main.d6ac6af8.css.map*/
